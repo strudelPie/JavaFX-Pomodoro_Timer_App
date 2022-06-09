@@ -4,5 +4,6 @@ Basic application built using JavaFX (Java and FXML), allowing the user to switc
 Very shortened example:
 
 <div>
-<img height= "500px" width="500px" src="https://github.com/strudelPie/media1/blob/main/Pomodoro%20App%20Gif.gif" />
+<img align="center" height= "500px" width="500px" src="https://github.com/strudelPie/media1/blob/main/Pomodoro%20App%20Gif.gif" />
 </div>
+

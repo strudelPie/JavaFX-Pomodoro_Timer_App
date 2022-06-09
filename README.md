@@ -7,5 +7,4 @@ Demo shortened to 5 second timers:
 <img align="center" height= "500px" width="500px" src="https://github.com/strudelPie/media1/blob/main/Pomodoro%20App%20Gif.gif" />
 </div>
 
-https://user-images.githubusercontent.com/95099173/172930465-822f1b18-601a-476c-8d4a-20b5ce574594.mp4
 
